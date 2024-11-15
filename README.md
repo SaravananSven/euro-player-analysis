@@ -1,4 +1,4 @@
-here the upcoming Euro cup  players information analysis using python
+here the upcoming Euro cup  players information analysis using python.This code works with a dataset of Euro 2024 players to analyze and visualize their market values based on position. First, it loads the data from a CSV file and inspects it using df.info(). Missing values in the "Foot" column are replaced with "Unknown," while other missing rows are removed. The code then creates a bar plot using seaborn to show the average market value for each player position. The plot is customized with rotated x-axis labels, a title, and axis labels for better readability. The final result is a clear visual representation of how players' market values vary across different positions.
 
 NOTE:
 As the euro got over Spain crowned as champions so some of the details here would be old so kindly look up for it thank you
